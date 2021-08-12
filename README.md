@@ -27,3 +27,7 @@
 > `$ graph deploy --studio your_subgraph_name`
 
 9. Check the subgraph studio, the syncing process would begin. Fire the example query to check if data is retrieved.
+
+10. Publish the subgraph on the rinkeby testnet. Check the faucet for rinkeby if you are running low on funds. 
+
+11. Once a subgraph is published, curators can start signalling and indexers can start indexing the data for queries.
